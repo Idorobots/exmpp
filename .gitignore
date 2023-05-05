@@ -33,3 +33,7 @@ src/exmpp_known_elems.erl
 src/exmpp_known_nss.erl
 stamp-h1
 testsuite/etest
+.rebar
+.rebar3
+_build
+rebar3.crashdump
